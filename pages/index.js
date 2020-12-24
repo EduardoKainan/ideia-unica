@@ -5,7 +5,11 @@ function home(){
  return(
 
     <div>
-        <h2>Home</h2>
+        <h1>Chrystian Pão de Queijo</h1>
+        <h2>Construir essa pagina usando o Next.js</h2>
+        <h3>E fiz o deploy usando a Versel, para hospendar o site de graça</h3>
+
+
         <Contador/>
     </div>
 
